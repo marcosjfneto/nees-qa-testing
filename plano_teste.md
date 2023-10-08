@@ -39,7 +39,7 @@ O cronograma será definido assim que a equipe de testes for contratada.
 | | | | | |
 | **3** | **Login com usuário errado e senha correta** | | | |
 | | 1. Digite o login no campo Usuario | prof | | |
-| | 2. Digite a senha no campo Senha | profesor | | |
+| | 2. Digite a senha no campo Senha | professor | | |
 | | 3. Clique no botão Login | | O usuário não recebe acesso ao conteúdo. Deve aparecer uma mensagem informando "Usuário e/ou senha incorretos" | |
 | | | | | |
 | **4** | **Login com usuário correto e senha errada** | | | |
