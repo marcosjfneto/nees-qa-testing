@@ -29,3 +29,7 @@ Só pedimos que siga as seguintes instruções:
     - O que podemos melhorar?
 
 Boa sorte 🍀! Aguardamos sua submissão!
+
+## Plano de teste desenvolvido
+
+[1. Plano de teste - Login](plano_teste.md)
